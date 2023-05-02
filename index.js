@@ -19,6 +19,12 @@ app.get("/main", (req, res) => {
   res.send(main);
 });
 
+app.get("/main/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const singleData = main.find((sData) => parseInt(sData.id) === id);
+  res.send(singleData);
+});
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
