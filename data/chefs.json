@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "photo": "https://i.ibb.co/3SWc2xv/team-1.png",
+    "name": "George M. Williams",
+    "experience": "1",
+    "recipes": "20",
+    "likes": "200"
+  },
+  {
+    "id": "2",
+    "photo": "https://i.ibb.co/3SWc2xv/team-1.png",
+    "name": "Allen J. Dougherty",
+    "experience": "2",
+    "recipes": "25",
+    "likes": "250"
+  },
+  {
+    "id": "3",
+    "photo": "https://i.ibb.co/3SWc2xv/team-1.png",
+    "name": "Virgil J. Barlow",
+    "experience": "3",
+    "recipes": "30",
+    "likes": "300"
+  },
+  {
+    "id": "4",
+    "photo": "https://i.ibb.co/3SWc2xv/team-1.png",
+    "name": "Barney S. Shaw",
+    "experience": "4",
+    "recipes": "10",
+    "likes": "100"
+  },
+  {
+    "id": "5",
+    "photo": "https://i.ibb.co/3SWc2xv/team-1.png",
+    "name": "John D. Fabrizio",
+    "experience": "2",
+    "recipes": "18",
+    "likes": "158"
+  },
+  {
+    "id": "6",
+    "photo": "https://i.ibb.co/3SWc2xv/team-1.png",
+    "name": "John K. Burns",
+    "experience": "2.5",
+    "recipes": "38",
+    "likes": "125"
+  },
+  {
+    "id": "7",
+    "photo": "https://i.ibb.co/3SWc2xv/team-1.png",
+    "name": "Justin L. Arceneaux",
+    "experience": "1.5",
+    "recipes": "25",
+    "likes": "85"
+  }
+]

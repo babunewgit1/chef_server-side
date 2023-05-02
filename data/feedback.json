@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "client_images": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "rating": 4.5,
+    "name": "Lawrence J. McMasters",
+    "feedback": "I recently had dinner at this restaurant and it was a truly wonderful experience. From the moment we walked in, the staff was warm and welcoming, and the atmosphere was cozy and inviting. The food was absolutely delicious - every dish we ordered was beautifully presented and bursting with flavor. The menu had a great variety of options to choose from, and the wine selection was excellent as well. Overall, I would highly recommend this restaurant to anyone looking for a memorable dining experience."
+  },
+  {
+    "id": 2,
+    "client_images": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "rating": 3.8,
+    "name": "Ryan H. Byrom",
+    "feedback": "I had mixed feelings about this restaurant. While the atmosphere was great - the decor was stylish and sophisticated - the food left something to be desired. While the portions were decent, the flavors were a bit lackluster and the presentation was underwhelming. Additionally, I felt that the prices were a bit steep for what we received. That being said, the service was friendly and attentive, and I would be willing to give this restaurant another chance in the future."
+  },
+  {
+    "id": 3,
+    "client_images": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "rating": 5,
+    "name": "George S. Murphy",
+    "feedback": "This restaurant was truly outstanding in every way. The food was impeccable - every dish was beautifully executed and the flavors were complex and nuanced. The staff was incredibly friendly and knowledgeable, and made great recommendations for both food and drinks. The atmosphere was sophisticated yet comfortable, making for a truly enjoyable dining experience. I cannot recommend this restaurant highly enough!"
+  },
+  {
+    "id": 4,
+    "client_images": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "rating": 4.2,
+    "name": "Charles E. Jensen",
+    "feedback": "While I enjoyed my meal at this restaurant, there were a few things that left me slightly disappointed. The food itself was tasty, but not particularly memorable - I didn't feel like I had any standout dishes. Additionally, the wait time was quite long, which was frustrating. However, the staff was friendly and accommodating, and the atmosphere was pleasant. Overall, while it wasn't my favorite dining experience, it was still a decent choice for a night out."
+  },
+  {
+    "id": 5,
+    "client_images": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "rating": 4.8,
+    "name": "Richard F. Caldwell",
+    "feedback": "I stumbled upon this restaurant by chance, and I am so glad I did! The food was absolutely delicious - every dish was bursting with flavor and expertly prepared. The service was friendly and attentive, and the atmosphere was cozy and inviting. Additionally, the prices were very reasonable for the quality of food and service. I will definitely be returning to this restaurant in the future!"
+  }
+]
