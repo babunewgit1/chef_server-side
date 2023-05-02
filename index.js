@@ -11,12 +11,12 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
-app.get("/main", (req, res) => {
-  res.send(main);
-});
-
 app.get("/feedback", (req, res) => {
   res.send(feedback);
+});
+
+app.get("/main", (req, res) => {
+  res.send(main);
 });
 
 app.listen(port, () => {
